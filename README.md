@@ -5,6 +5,7 @@ checkI can make hash value list of you files and check your file integrity.
 
 here is the usage.
 
+```
 ------------help menu-------------
 
 command list
@@ -17,7 +18,7 @@ usage
 bash check_i.sh make [dir_path]: make the hash list in dir_path
 bash check_i.sh check [dir_path]: verify hash of each file
 bash check_i.sh [dir_path]: same as above
-
+```
 --------------------------------------
 If some of you files has been tampered you can check tampered file list.
 
